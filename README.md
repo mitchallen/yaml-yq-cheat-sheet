@@ -17,6 +17,14 @@ snap install yq
 
 * * *
 
+## demo
+
+```sh
+./cat-demo.sh
+```
+
+* * *
+
 ## flat-keys.yaml
 
 ```yaml
